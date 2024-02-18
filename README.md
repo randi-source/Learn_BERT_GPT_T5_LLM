@@ -1,6 +1,6 @@
 ## Learn Large Language Modelling
 
-This repository contain my practice on LLM concept, especially for BERT, GPT2, and T5 model as pretrained model with: \
+This repository contain my practice on LLM concept, especially for BERT, GPT2, and T5 model as pretrained model with: 
 
 a. Tokenization \
 b. Masked Language Modelling \
