@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+BERT_LLM
+calculus
+calculus_english_to_latex
+english_to_latex
+gpt2_multitask
+gpt2_pds
+ir
+mlruns
+qa
+snips_clf
+snips_tok_clf
+t5_summary_results
+qa.csv
+snips.train.txt
